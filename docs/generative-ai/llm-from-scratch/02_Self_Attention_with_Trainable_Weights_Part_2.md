@@ -25,7 +25,7 @@ tags:
 {:toc}
 </details>
 
-In the previous post, titled [Self-Attention Part 1](../01_Self_Attention_In_Work_Part_1/index.html), we implemented a simplified attention mechanism without any trainable weights.
+In the previous post, titled [Self-Attention Part 1](01_Self_Attention_In_Work_Part_1.html), we implemented a simplified attention mechanism without any trainable weights.
 
 In this blog post, we will take it a step further by implementing self-attention with trainable weights.
 

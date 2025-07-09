@@ -50,7 +50,7 @@ In this blog, we'll explore how to **fine-tune the Mistral-7B language model usi
 
 LoRA is based on the hypothesis that the weight updates during fine-tuning have a low "intrinsic rank." Instead of updating all model parameters, LoRA adds trainable low-rank matrices to the existing frozen weights.
 
-You can find additional information about LoRA in the [previous blog post](../2025-04-05-finetune-with-lora/index.html).
+You can find additional information about LoRA in the [previous blog post](2025-04-05-finetune-with-lora.html).
 
 **2. 4-bit Quantization**:
 

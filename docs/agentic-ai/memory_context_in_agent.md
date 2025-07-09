@@ -36,7 +36,7 @@ This blog post offers a detailed description of an agentic system architecture t
 Agentic systems represent a paradigm shift in artificial intelligence, moving beyond simple input-output transformations to create autonomous entities capable of reasoning, planning, and executing complex tasks. Unlike traditional AI systems that process queries in isolation, agentic systems maintain context, learn from interactions, and dynamically adapt their behavior based on available tools and past experiences.
 
 
-The architecture presented here implements a [Model Control Protocol (MCP)](../2025-04-05-mcp/index.html)-based system that can connect to multiple tools, analyze user requests through perception and decision, and execute a multi-step reasoning chain to achieve the desired goal.
+The architecture presented here implements a [Model Control Protocol (MCP)](2025-04-05-mcp.html)-based system that can connect to multiple tools, analyze user requests through perception and decision, and execute a multi-step reasoning chain to achieve the desired goal.
 
 ## Core Components
 

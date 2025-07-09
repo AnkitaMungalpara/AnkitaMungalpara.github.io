@@ -1,7 +1,7 @@
 ---
 title: All Blogs
 
-nav_order: 8
+nav_order: 9
 description: Personal blogs, tutorials, and thoughts on AI, data science, and career.
 ---
 

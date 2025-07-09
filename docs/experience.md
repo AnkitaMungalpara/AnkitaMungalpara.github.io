@@ -17,13 +17,12 @@ _University of Massachusetts – Dartmouth_, USA
 
 **Jan 2025 – Present**
 
+- Developed a <span class="text-purple-100">medical Visual Question Answering (VQA) pipeline</span> by performing <span class="text-purple-100">supervised fine-tuning on the AlphaCLIP + LLaVA-Med multimodal model (with 7.57 billion parameters)</span>, using the PEFT technique. 
+
 - Trained a <span class="text-purple-100">CLIP (Contrastive Language Image Pre-training) multi-modal model from scratch</span>: developed vision and text encoders, integrated Byte Pair Encoding (BPE), applied contrastive loss, and deployed the model using Gradio.
 
 - <span class="text-purple-100">Fine-tuned the Mistral-7B model</span> on 75,000 financial news samples using the Parameter-Efficient Fine-Tuning (PEFT) technique, and utilized Weights & Biases for experiment tracking.
 
-- Developed a <span class="text-purple-100">medical Visual Question Answering (VQA) pipeline</span> by performing <span class="text-purple-100">supervised fine-tuning on the AlphaCLIP + LLaVA-Med multimodal model (with 7.57 billion parameters)</span>, using the PEFT technique. 
-
-<!-- Achieved a BLEU score of 0.35 and a ROUGE-L score of 0.65 on a large medical corpus that includes over 1 million images, 10 modalities, and 65 diseases. -->
 
 
 ## R&D Data Science Intern, Generative AI

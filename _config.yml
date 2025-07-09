@@ -1,0 +1,30 @@
+title: Ankita Mungalpara
+description: Data Scientist Portfolio
+theme: just-the-docs
+
+url: https://AnkitaMungalpara.github.io
+
+# aux_links:
+#   Template Repository: AnkitaMungalpara/AnkitaMungalpara.github.io
+
+plugins:
+  - jekyll-default-layout
+
+# External navigation links
+nav_external_links:
+  - title: "Ankita on GitHub"
+    url: "https://github.com/AnkitaMungalpara"
+    hide_icon: false
+    opens_in_new_tab: true
+
+    
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: 'Copyright &copy; 2025 Ankita Mungalpara.'
+
+# Footer last edited timestamp
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"
+

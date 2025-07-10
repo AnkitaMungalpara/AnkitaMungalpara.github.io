@@ -45,29 +45,6 @@ I'm passionate about solving complex problems, pushing the boundaries of AI rese
 </div>
 
 
-<!--
-Hi! I'm Ankita, a Data Scientist passionate about developing innovative solutions. Currently pursuing my MS in Data Science at UMass Dartmouth with a 4.0 GPA, I'm deeply engaged in exploring advanced Deep Learning architectures and mastering MLOps with cloud platforms like Azure ML and AWS.
-
-
-My journey spans from implementing computer vision solutions at Tiger Analytics to developing generative AI applications at Johnson & Johnson. I specialize in:
-
-- Large Language Models and Generative AI applications
-- MLOps and production-ready ML systems
-- Computer Vision and Deep Learning
-- Cloud-based ML solutions (Azure, AWS)
-
-
-
-I served as an R&D Data Science Intern at Johnson & Johnson Innovative Medicine in Summer 2024, where I explored and deepened my understanding of large language models. With three years of professional experience, I have worked in roles as a Machine Learning Engineer and Data Scientist, developing AI-driven solutions across various domains.
-
-Previously, as a Research Intern at Indian Space Research Organization (ISRO), I conducted research on forest stand height estimation using remote sensing techniques, which led to a publication in Springer and contributed to climate change research.
-
-As a Microsoft Certified Azure Data Scientist Associate and a natural problem-solver, I thrive in research-driven environments where I can push technical boundaries. I'm deeply committed to building AI solutions that not only demonstrate technical excellence but also create meaningful real-world impact.
-
-I'm currently expanding my expertise in advanced Deep Learning architectures, Generative AI, and Large Language Models, always seeking opportunities to transform cutting-edge research into practical solutions that drive innovation.
--->
-
-
 
 <style>
   .site-logo {
@@ -325,22 +302,6 @@ I'm currently expanding my expertise in advanced Deep Learning architectures, Ge
   flex-wrap: wrap;
 }
 
-
-/* .category-tile {
-  display: inline-block;
-  text-decoration: none;
-  background: #ffffff;
-  color: #111827;
-  padding: 18px 28px;
-  border-radius: 16px;
-  box-shadow: 0 12px 20px rgba(0, 0, 0, 0.05);
-  font-weight: 600;
-  font-size: 1.1rem;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  cursor: pointer;
-  min-width: 200px;
-  text-align: center;
-} */
 
 .category-tile {
   background: #f9fafb;
@@ -641,14 +602,8 @@ function scrollToSection(id) {
 
 
 
-
-
 # Certification
 
-<!-- - **Microsoft Certified: Azure Data Scientist Associate (DP-100)**   -->
-  <!-- *Issued Feb 2024* -->
-
-<!-- ![](https://img-c.udemycdn.com/open-badges/v2/badge-class/1456157181/azure-data-scientist-associate-600x60016151426175978877264.png) -->
 <br>
 
 <div class="certification-card">
@@ -658,13 +613,11 @@ function scrollToSection(id) {
          class="cert-logo">
     <div class="cert-info">
       <strong>Microsoft Certified: Azure Data Scientist Associate</strong><br>
-      <!-- <em>Issued Feb 2024</em> -->
     </div>
   </a>
 </div>
 
 
-<!-- <div class="section-divider"></div> -->
 <div class="my-12 border-t border-gray-200 opacity-70"></div>
 
 
@@ -692,7 +645,7 @@ function scrollToSection(id) {
 # Projects
 
 <br>
-<!-- Category Section -->
+
 <section class="project-categories-grid">
   <a href="/docs/agentic-ai/index.html" class="category-tile">Agentic AI</a>
   <a href="/docs/computer-vision/index.html" class="category-tile">Computer Vision</a>
@@ -709,7 +662,7 @@ function scrollToSection(id) {
 <section class="recent-blogs">
   <div class="blog-list">
     <article class="blog-card">
-    <a href="agentic-ai/2025-04-05-mcp.html" class="blog-link">
+    <a href="docs/agentic-ai/2025-04-05-mcp.html" class="blog-link">
     <img src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb35b6dc-a7e7-42ef-b0a5-8ea42c4ffbc3_959x755.png"
       alt="Model Context Protocol illustration"
       class="blog-image"/>
@@ -731,13 +684,13 @@ function scrollToSection(id) {
       </p>
 
       <!-- <span class="read-more">Read more →</span> -->
-      <a href="/docs/agentic-ai/2025-04-05-mcp/index.html" class="read-more">Read more →</a>
+      <a href="docs/agentic-ai/2025-04-05-mcp.html" class="read-more">Read more →</a>
     </div>
     </a>
     </article>
 
     <article class="blog-card">
-    <a href="generative-ai/2025-04-05-finetune-with-lora.html" class="blog-link">
+    <a href="docs/generative-ai/2025-04-05-finetune-with-lora.html" class="blog-link">
     <img src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F493b62da-91e6-4f6b-896f-4af8c5eb1405_580x514.png"
       alt="Model Context Protocol illustration"
       class="blog-image"/>
@@ -760,14 +713,14 @@ function scrollToSection(id) {
       </p>
 
       <!-- <span class="read-more">Read more →</span> -->
-      <a href="/docs/generative-ai/2025-04-05-finetune-with-lora/index.html" class="read-more">Read more →</a>
+      <a href="docs/generative-ai/2025-04-05-finetune-with-lora.html" class="read-more">Read more →</a>
     </div>
     </a>
     </article>
 
 
     <article class="blog-card">
-    <a href="generative-ai/2025-02-21-clip-from-scratch.html" class="blog-link">
+    <a href="docs/generative-ai/2025-02-21-clip-from-scratch.html" class="blog-link">
     <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*OVi8blLZw_wf2rrxdlfbdg.png"
       alt="Model Context Protocol illustration"
       class="blog-image"/>
@@ -789,71 +742,13 @@ function scrollToSection(id) {
       </p>
 
       <!-- <span class="read-more">Read more →</span> -->
-      <a href="/docs/generative-ai/2025-02-21-clip-from-scratch/index.html" class="read-more">Read more →</a>
+      <a href="docs/generative-ai/2025-02-21-clip-from-scratch.html" class="read-more">Read more →</a>
     </div>
     </a>
     </article>
 
   </div>
 </section>
-
-
-
-<!-- 
-## 🛠 Technical Skills
-
-- **Languages**: Python, SQL, R, MATLAB, JavaScript  
-- **Cloud & Tools**: Azure ML, AWS (Lambda, SageMaker, S3), GCP, Databricks  
-- **ML Frameworks**: PyTorch, TensorFlow, Keras, Hugging Face, LangChain, MLflow, DVC, Hydra, LangSmith  
-- **Concepts**: LLMs, RAG, NLP, CV, MLOps, LLMOps, Hypothesis Testing
-
-
-<section class="technical-skills">
-  <h2>🛠 Technical Skills</h2>
-
-  <div class="skill-group">
-    <strong>Languages:</strong>
-    <span class="badge">Python</span>
-    <span class="badge">SQL</span>
-    <span class="badge">R</span>
-    <span class="badge">MATLAB</span>
-    <span class="badge">JavaScript</span>
-  </div>
-
-  <div class="skill-group">
-    <strong>Cloud & Tools:</strong>
-    <span class="badge">Azure ML</span>
-    <span class="badge">AWS Lambda</span>
-    <span class="badge">SageMaker</span>
-    <span class="badge">S3</span>
-    <span class="badge">GCP</span>
-    <span class="badge">Databricks</span>
-  </div>
-
-  <div class="skill-group">
-    <strong>ML Frameworks:</strong>
-    <span class="badge">PyTorch</span>
-    <span class="badge">TensorFlow</span>
-    <span class="badge">Keras</span>
-    <span class="badge">Hugging Face</span>
-    <span class="badge">LangChain</span>
-    <span class="badge">MLflow</span>
-    <span class="badge">DVC</span>
-    <span class="badge">Hydra</span>
-    <span class="badge">LangSmith</span>
-  </div>
-
-  <div class="skill-group">
-    <strong>Concepts:</strong>
-    <span class="badge">LLMs</span>
-    <span class="badge">RAG</span>
-    <span class="badge">NLP</span>
-    <span class="badge">Computer Vision</span>
-    <span class="badge">MLOps</span>
-    <span class="badge">LLMOps</span>
-    <span class="badge">Hypothesis Testing</span>
-  </div>
-</section> -->
 
 
 

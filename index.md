@@ -709,7 +709,7 @@ function scrollToSection(id) {
 <section class="recent-blogs">
   <div class="blog-list">
     <article class="blog-card">
-    <a href="/docs/agentic-ai/2025-04-05-mcp/index.html" class="blog-link">
+    <a href="agentic-ai/2025-04-05-mcp.html" class="blog-link">
     <img src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb35b6dc-a7e7-42ef-b0a5-8ea42c4ffbc3_959x755.png"
       alt="Model Context Protocol illustration"
       class="blog-image"/>
@@ -737,7 +737,7 @@ function scrollToSection(id) {
     </article>
 
     <article class="blog-card">
-    <a href="/docs/generative-ai/2025-04-05-finetune-with-lora/index.html" class="blog-link">
+    <a href="generative-ai/2025-04-05-finetune-with-lora.html" class="blog-link">
     <img src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F493b62da-91e6-4f6b-896f-4af8c5eb1405_580x514.png"
       alt="Model Context Protocol illustration"
       class="blog-image"/>
@@ -767,7 +767,7 @@ function scrollToSection(id) {
 
 
     <article class="blog-card">
-    <a href="/docs/generative-ai/2025-02-21-clip-from-scratch/index.html" class="blog-link">
+    <a href="generative-ai/2025-02-21-clip-from-scratch.html" class="blog-link">
     <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*OVi8blLZw_wf2rrxdlfbdg.png"
       alt="Model Context Protocol illustration"
       class="blog-image"/>

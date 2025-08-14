@@ -35,7 +35,7 @@ High Performance Scientific Computing • Generative AI • Advanced Machine Lea
 
 <div style="display: flex; align-items: center; gap: 16px;">
 
-  <img src="https://media.licdn.com/dms/image/v2/D4D0BAQGXSnIMqc6HtQ/company-logo_100_100/B4DZZpQ05lG0AQ-/0/1745522741293/dhirubhai_ambani_institute_of_information_and_communication_technology_logo?e=1753920000&v=beta&t=lzjaJt_ygNLHpSRYeSI1INDRDfMg8l8TPg4TIuz7GVI" alt="DAIICT Logo" width="100" height="100" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/b/b1/Dhirubhai_Ambani_Institute_of_Information_and_Communication_Technology_logo.png" alt="DAIICT Logo" width="100" height="100" />
 
   <div>
     Dhirubhai Ambani Institute of Information and Communication Technology, India<br/>
@@ -53,7 +53,7 @@ Machine Learning • Deep Learning • Computer Vision • Pattern Recognition �
 
 <div style="display: flex; align-items: center; gap: 16px;">
 
-  <img src="https://eval.gtueas.in/GTU2_Dashboard/Content/design01/images/gtu_logo_new.png" alt="DAIICT Logo" width="100" height="100"  />
+  <img src="https://eval.gtueas.in/GTU2_Dashboard/Content/design01/images/gtu_logo_new.png" alt="GTU Logo" width="100" height="100"  />
 
   <div>
     Gujarat Technological University, India<br/>

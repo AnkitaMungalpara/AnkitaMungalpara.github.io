@@ -1,8 +1,8 @@
 ---
-title: 'Document Understanding with PaperMage'
+title: 'Part-1: Document Understanding with PaperMage'
 date: 2025-04-05
 
-parent: Document AI
+parent: Document Intelligence
 
 nav_order: 1
 

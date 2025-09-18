@@ -18,6 +18,9 @@ tags:
 # Document Parsing with Nougat: Transforming Scientific PDFs into Machine-Readable Text
 {: .no_toc }
 
+[View on GitHub](https://github.com/AnkitaMungalpara/document-intelligence/tree/main/03-Document-Parsing-with-Nougat){: .btn }
+
+
 <details open markdown="block">
   <summary>
     Table of contents

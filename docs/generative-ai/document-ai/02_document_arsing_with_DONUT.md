@@ -18,8 +18,7 @@ tags:
 # Document Understanding with DONUT
 {: .no_toc }
 
-[View on GitHub](https://github.com/AnkitaMungalpara/document-intelligence/tree/main/02-Document-Parsing-with-DONUT){: .btn }
-
+[View on GitHub](https://github.com/AnkitaMungalpara/document-intelligence/tree/main/02-Document-Parsing-with-DONUT){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 <details open markdown="block">
   <summary>
@@ -110,6 +109,7 @@ Once the visual features are extracted, they’re passed into DONUT’s **BART-b
 
 The result is a clean, efficient, and highly generalizable framework that bridges the gap between raw document images and machine-readable structured information.
 
+{: .note }
 In essence: DONUT rethinks document AI. It doesn’t “read” like a human with OCR—it interprets documents as a whole, mapping visuals directly into structured meaning.
 
 ## Code Walkthrough

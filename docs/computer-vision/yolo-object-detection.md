@@ -212,18 +212,6 @@ Training a YOLOv5 model is traightforrd, thats to its user-friendly documentatio
 </center>
 <br>
 
-<!-- <center>
-<img src='../../../assets/images/yolo/5.png' height=500
-width=33%>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='../../../assets/images/yolo/6.png'   height=500
-width=33%>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='../../../assets/images/yolo/7.png' height=500
-width=33%>
-<br>
-</center>
-<br> -->
 
 * **YOLOv5 Training**
   * Train a custom YOLOv5 model using the annotated dataset. After training, we'll receive a weight file that encapsulates the learned features.
@@ -255,26 +243,13 @@ To facilitate the annotation process, I used an online data annotation tool call
 
 In the context of this project, I created bounding boxes around each instance of `Handbags`, `Pants`, `Shirts`, `Shoes`, and `Sunglasses` in the images. Each box was labeled accordingly, ensuring that the YOLOv5 model can later recognize these objects during training and inference.
 
-<!-- Here’s a **demo video** showing the data annotation process for this project using Label Studio, which provides a visual guide on how to draw bounding boxes and assign labels effectively. -->
+Here’s a **demo video** showing the data annotation process for this project using Label Studio, which provides a visual guide on how to draw bounding boxes and assign labels effectively.
 
-
-<!-- <center>
-<video width="500" height="300" controls>
-  <source src="/assets/videos/data_annotation.mp4" type="video/mp4">
-</video>
-</center> -->
-
-<!-- <div style="text-align:center;">
-  <video width="100%" height="auto" controls>
-    <source src="/assets/videos/data_annotation.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div> -->
-
-<!-- <video controls width="600">
-  <source src="/assets/videos/data_annotation.mp4" type="video/mp4">
+<video width="100%" height="100%" controls>
+  <source src="/assets/videos/data_annotation.mp4" type="video/quicktime">
   Your browser does not support the video tag.
-</video> -->
+</video>
+
 
 
 **YOLOv5 Data Format**

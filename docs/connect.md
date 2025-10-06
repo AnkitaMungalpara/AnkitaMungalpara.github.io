@@ -1,6 +1,6 @@
 ---
 # layout: minimal
-title: Conect with me
+title: Connect with me
 nav_order: 12
 has_toc: false
 ---

@@ -634,7 +634,7 @@ This is a collection of my hands-on projects in agentic AI, generative AI, LLMOp
 14. [Docker Compose and PyTorch Lightning](docs/mlops/docker-compose.html)
 15. [Hyperparameter Tuning and Experiment Tracking](docs/mlops/hyperparameter-tuning.html)
 16. [Deployment with Gradio](docs/mlops/deployment-with-gradio.html)
-17. [Deployment with Litserve](docs/mlops/deployment-with-litserve.html)
+17. [Deployment with Litserve](/docs/mlops/deployment-with-litserve.html)
 
 <!-- 
 <section class="project-categories-grid">

@@ -1,5 +1,5 @@
 ---
-title: 'Working with Text Data'
+title: 'Part 1: How LLMs Read Text: Tokenization, BPE, and Word Embeddings Explained'
 
 parent: LLM From Scratch
 
@@ -13,7 +13,7 @@ tags:
   - Machine Learnig
 ---
 
-# Working with Text Data
+# The Essential Guide to Tokenization, BPE, and Word Embeddings for LLMs
 {: .no_toc }
 
 This blog post covers the steps involved in preparing text for training large language models, including:

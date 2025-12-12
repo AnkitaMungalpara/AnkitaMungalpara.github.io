@@ -1,5 +1,5 @@
 ---
-title: 'Self Attention Part-1'
+title: 'Part 2: Self Attention Explained without Trainable Weights'
 
 parent: LLM From Scratch
 

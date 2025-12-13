@@ -15,7 +15,7 @@ has_toc: false
 ## Graduate Research Assistant
 _University of Massachusetts – Dartmouth_, USA
 
-**Jan 2025 – Present**
+**Jan 2025 – Sep 2025**
 
 - Developed a <span class="text-purple-100">medical Visual Question Answering (VQA) pipeline</span> by performing <span class="text-purple-100">supervised fine-tuning on the AlphaCLIP + LLaVA-Med multimodal model (with 7.57 billion parameters)</span>, using the PEFT technique. 
 

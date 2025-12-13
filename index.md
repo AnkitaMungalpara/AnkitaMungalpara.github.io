@@ -618,7 +618,7 @@ This is a collection of my hands-on projects in agentic AI, generative AI, LLMOp
     - [Part 2: Document Parsing with DONUT](docs/generative-ai/document-ai/02_document_arsing_with_DONUT.html)
     - [Part 3: Document Parsing with Nougat](docs/generative-ai/document-ai/03_document_parsing_with_Nougat.html)
     - [Part 4: Document Parsing with GOT-OCR2.0](docs/generative-ai/document-ai/04_Document_understanding_with_GOT_OCR2.0.html)
-    - [Part 5: Document Parsing with MierU](docs/generative-ai/document-ai/05_document_understanding_with_MinerU.html)
+    - [Part 5: Document Parsing with MinerU](docs/generative-ai/document-ai/05_document_understanding_with_MinerU.html)
 5. [Advanced RAG](docs/generative-ai/advanced-rag/index.html)
 6. [Building CLIP From Scratch](docs/generative-ai/2025-02-21-clip-from-scratch.html)
 7. [Fine-Tune Mistral-7B Model with LoRA: Sentiment Classification](docs/generative-ai/2025-04-05-finetune-with-lora.html)

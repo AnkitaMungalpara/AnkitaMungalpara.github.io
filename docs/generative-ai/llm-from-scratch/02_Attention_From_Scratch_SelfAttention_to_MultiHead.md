@@ -27,7 +27,7 @@ tags:
 
 ## Scaled Dot-product Attention Mechanism
 
-In the previous notebook, titled [Self-Attention Part 1](https://github.com/AnkitaMungalpara/Building-LLM-From-Scratch/blob/main/01_Self_Attention_In_Work_Part_1.ipynb), we implemented a simplified attention mechanism without any trainable weights.
+In the previous notebook, titled [Simple Self-Attention Without Trainable Weights](01_Self_Attention_In_Work_Part_1.html), we implemented a simplified attention mechanism without any trainable weights.
 
 In this notebook, we will take it a step further by implementing self-attention with trainable weights.
 
